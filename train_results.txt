@@ -1,0 +1,1 @@
+Epoch 30: Train Loss: 0.1727, Val Loss: 0.2781, Train Acc: 0.9237, Val Acc: 0.9231
